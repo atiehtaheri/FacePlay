@@ -1,0 +1,62 @@
+﻿  FeatureExtraction.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\detail\type_traits.hpp(57): warning C4996: 'std::result_of': warning STL4014: std::result_of and std::result_of_t are deprecated in C++17. They are superseded by std::invoke_result and std::invoke_result_t. You can define _SILENCE_CXX17_RESULT_OF_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(1835): note: see declaration of 'std::result_of'
+c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\associated_allocator.hpp(103): warning C4996: 'std::allocator<void>': warning STL4009: std::allocator<void> is deprecated in C++17. You can define _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(1029): note: see declaration of 'std::allocator<void>'
+c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\use_future.hpp(137): warning C4996: 'std::allocator<void>': warning STL4009: std::allocator<void> is deprecated in C++17. You can define _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(1029): note: see declaration of 'std::allocator<void>'
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\use_future.hpp(139): note: see reference to class template instantiation 'boost::asio::use_future_t<Allocator>' being compiled
+c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\use_future.hpp(146): warning C4996: 'std::allocator<void>': warning STL4009: std::allocator<void> is deprecated in C++17. You can define _SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xmemory0(1029): note: see declaration of 'std::allocator<void>'
+c:\users\atieh\documents\codes\openface\openface-master\lib\3rdparty\dlib\include\dlib\console_progress_indicator.h(153): warning C4834: discarding return value of function with 'nodiscard' attribute
+c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\buffer.hpp(710): warning C4834: discarding return value of function with 'nodiscard' attribute
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\buffer.hpp(709): note: while compiling class template member function 'void boost::asio::detail::buffer_debug_check<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>::operator ()(void)'
+          with
+          [
+              _Ty=Utilities::au_data
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\type_traits(16707566): note: see reference to function template instantiation 'void boost::asio::detail::buffer_debug_check<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>::operator ()(void)' being compiled
+          with
+          [
+              _Ty=Utilities::au_data
+          ]
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\buffer.hpp(1305): note: see reference to class template instantiation 'boost::asio::detail::buffer_debug_check<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>' being compiled
+          with
+          [
+              _Ty=Utilities::au_data
+          ]
+  c:\users\atieh\documents\codes\openface\openface-master\exe\featureextraction\featureextraction.cpp(141): note: see reference to function template instantiation 'boost::asio::mutable_buffers_1 boost::asio::buffer<Utilities::au_data,std::allocator<_Ty>>(std::vector<_Ty,std::allocator<_Ty>> &) noexcept' being compiled
+          with
+          [
+              _Ty=Utilities::au_data
+          ]
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(54): note: see reference to class template instantiation 'boost::arg<9>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(53): note: see reference to class template instantiation 'boost::arg<8>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(52): note: see reference to class template instantiation 'boost::arg<7>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(51): note: see reference to class template instantiation 'boost::arg<6>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(50): note: see reference to class template instantiation 'boost::arg<5>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(49): note: see reference to class template instantiation 'boost::arg<4>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(48): note: see reference to class template instantiation 'boost::arg<3>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(47): note: see reference to class template instantiation 'boost::arg<2>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\bind\placeholders.hpp(46): note: see reference to class template instantiation 'boost::arg<1>' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\use_future.hpp(138): note: see reference to class template instantiation 'boost::asio::use_future_t<std::allocator<void>>::std_allocator_void' being compiled
+  c:\users\atieh\downloads\boost_1_66_0\boost_1_66_0\boost\asio\use_future.hpp(146): note: see reference to class template instantiation 'boost::asio::use_future_t<std::allocator<void>>' being compiled
+  Sharing violation
+  Unable to create directory - C:\Users\Atieh\Documents\Codes\OpenFace\OpenFace-master\x64\Debug
+  0 File(s) copied
+dlib.lib(base64_kernel_1.obj) : warning LNK4099: PDB 'dlib.pdb' was not found with 'dlib.lib(base64_kernel_1.obj)' or at 'C:\Users\Atieh\Documents\Codes\OpenFace\OpenFace-master\x64\Debug\dlib.pdb'; linking object as if no debug info
+dlib.lib(entropy_decoder_kernel_2.obj) : warning LNK4099: PDB 'dlib.pdb' was not found with 'dlib.lib(entropy_decoder_kernel_2.obj)' or at 'C:\Users\Atieh\Documents\Codes\OpenFace\OpenFace-master\x64\Debug\dlib.pdb'; linking object as if no debug info
+dlib.lib(test_for_odr_violations.obj) : warning LNK4099: PDB 'dlib.pdb' was not found with 'dlib.lib(test_for_odr_violations.obj)' or at 'C:\Users\Atieh\Documents\Codes\OpenFace\OpenFace-master\x64\Debug\dlib.pdb'; linking object as if no debug info
+  FeatureExtraction.vcxproj -> C:\Users\Atieh\Documents\Codes\OpenFace\OpenFace-master\x64\Debug\FeatureExtraction.exe
+  0 File(s) copied
+  File not found - Debug
+  File not found - opencv_ffmpeg410.dll
+  0 File(s) copied
+  0 File(s) copied
+  File not found - opencv_ffmpeg410_64.dll
+  0 File(s) copied

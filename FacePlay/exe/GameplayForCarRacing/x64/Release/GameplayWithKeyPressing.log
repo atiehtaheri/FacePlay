@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (GameplayWithKeyPressing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ControlsUI.cpp
+  GameplayForCarRacing.cpp
+c:\users\atieh\documents\codes\openfacegui\openface-master\exe\gameplaywithkeypressing\controlsui.cpp(100): warning C4002: too many arguments for function-like macro invocation 'wxT'
+c:\users\atieh\documents\codes\openfacegui\openface-master\lib\3rdparty\dlib\include\dlib\console_progress_indicator.h(153): warning C4834: discarding return value of function with 'nodiscard' attribute (compiling source file GameplayForCarRacing.cpp)
+  Generating code
+c:\users\atieh\documents\codes\openfacegui\openface-master\exe\gameplaywithkeypressing\gameplayforcarracing.cpp(1164): warning C4715: 'MyApp::OnInit': not all control paths return a value
+  Finished generating code
+  GameplayWithKeyPressing.vcxproj -> C:\Users\Atieh\Documents\Codes\OpenFaceGUI\OpenFace-master\x64\Release\GameplayForCarRacing.exe

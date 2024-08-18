@@ -1,0 +1,57 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (GameplayForCarRacing.vcxproj, GameplayWithKeyPressing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ControlsUI.cpp
+  DeviceEnumerator.cpp
+  GameplayForCarRacing.cpp
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(195): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(452): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1450): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1477): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1509): warning C4002: too many arguments for function-like macro invocation 'wxT'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1502): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1570): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1597): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1622): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1697): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1723): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1805): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1831): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1927): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(1953): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2036): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2062): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2152): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2533): warning C4996: 'wxFont::SetFamily': deprecated: use wxFONTFAMILY_XXX constants
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\msw\font.h(119): note: see declaration of 'wxFont::SetFamily'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2546): warning C4996: 'wxFontBase::SetWeight': deprecated: use wxFONTWEIGHT_XXX constants instead of wxLIGHT/wxNORMAL/wxBOLD
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\font.h(497): note: see declaration of 'wxFontBase::SetWeight'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2580): warning C4996: 'wxFontBase::SetWeight': deprecated: use wxFONTWEIGHT_XXX constants instead of wxLIGHT/wxNORMAL/wxBOLD
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\font.h(497): note: see declaration of 'wxFontBase::SetWeight'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2615): warning C4996: 'wxFontBase::SetWeight': deprecated: use wxFONTWEIGHT_XXX constants instead of wxLIGHT/wxNORMAL/wxBOLD
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\font.h(497): note: see declaration of 'wxFontBase::SetWeight'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2649): warning C4996: 'wxFontBase::SetWeight': deprecated: use wxFONTWEIGHT_XXX constants instead of wxLIGHT/wxNORMAL/wxBOLD
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\font.h(497): note: see declaration of 'wxFontBase::SetWeight'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2683): warning C4996: 'wxFontBase::SetWeight': deprecated: use wxFONTWEIGHT_XXX constants instead of wxLIGHT/wxNORMAL/wxBOLD
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\font.h(497): note: see declaration of 'wxFontBase::SetWeight'
+c:\users\atieh\documents\codes\openface-master\openface-master\exe\gameplayforcarracing\controlsui.cpp(2717): warning C4996: 'wxFontBase::SetWeight': deprecated: use wxFONTWEIGHT_XXX constants instead of wxLIGHT/wxNORMAL/wxBOLD
+  c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\wxwidgets\include\wx\font.h(497): note: see declaration of 'wxFontBase::SetWeight'
+c:\users\atieh\documents\codes\openface-master\openface-master\lib\3rdparty\dlib\include\dlib\console_progress_indicator.h(153): warning C4834: discarding return value of function with 'nodiscard' attribute (compiling source file GameplayForCarRacing.cpp)
+  Generating code
+  Finished generating code
+  GameplayForCarRacing.vcxproj -> C:\Users\atieh\Documents\Codes\OpenFace-master\OpenFace-master\x64\Release\GameplayForCarRacing.exe
